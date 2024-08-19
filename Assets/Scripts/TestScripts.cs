@@ -12,6 +12,7 @@ public class TestScripts : MonoBehaviour
         print("For Revert Testing3");
         print("For Revert Testing4");
         print("For Revert Testing5");
+        print("Token Test");
     }
 
     // Update is called once per frame
