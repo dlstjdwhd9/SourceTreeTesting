@@ -13,6 +13,7 @@ public class TestScripts : MonoBehaviour
         print("For Revert Testing4");
         print("For Revert Testing5");
         print("Token Test");
+        print("Merge Testing");
     }
 
     // Update is called once per frame
